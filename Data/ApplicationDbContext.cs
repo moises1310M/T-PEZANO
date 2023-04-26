@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace test.Data;
+namespace TPEZANO.Data;
 
 public class ApplicationDbContext : IdentityDbContext
 {
@@ -10,7 +10,7 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
-    public DbSet<test.Models.Contacto> DataContactos { get; set; }
+    public DbSet<TPEZANO.Models.Contacto> DataContactos { get; set; }
 
-     public DbSet<test.Models.Producto> DataProductos { get; set;}
+     public DbSet<TPEZANO.Models.Producto> DataProductos { get; set;}
 }
