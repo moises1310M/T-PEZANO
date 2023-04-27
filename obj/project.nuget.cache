@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "OIt0gOpG5mzpqhSLzRQhdJ8Yzso32apUx40RhBbK5fdBFSfP8ZKrhwtjhNpPtTaeW/cLpZI3SBNM5m6e817Qlg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\test\\test.csproj",
+  "projectFilePath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
