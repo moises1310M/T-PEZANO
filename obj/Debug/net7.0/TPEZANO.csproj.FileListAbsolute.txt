@@ -1,0 +1,8 @@
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.csproj.AssemblyReference.cache
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.GeneratedMSBuildEditorConfig.editorconfig
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.AssemblyInfoInputs.cache
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.AssemblyInfo.cs
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.csproj.CoreCompileInputs.cache
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.MvcApplicationPartsAssemblyInfo.cache
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.RazorAssemblyInfo.cache
+E:\U\PROGRAMACION-I\TPEZANO\obj\Debug\net7.0\TPEZANO.RazorAssemblyInfo.cs
