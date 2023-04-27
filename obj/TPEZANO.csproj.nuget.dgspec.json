@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj": {}
+    "e:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj": {}
   },
   "projects": {
-    "E:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj": {
+    "e:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj",
+        "projectUniqueName": "e:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj",
         "projectName": "TPEZANO",
-        "projectPath": "E:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj",
+        "projectPath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\TPEZANO.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\U\\PROGRAMACION-I\\TPEZANO\\obj\\",
+        "outputPath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,40 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
