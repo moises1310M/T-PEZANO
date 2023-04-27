@@ -18660,6 +18660,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\Views\\Contacto\\create.cshtml",
+      "TargetPath": "Views\\Contacto\\create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
