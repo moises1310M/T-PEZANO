@@ -114,3 +114,11 @@ ul.slider li:target{
     grid-gap:50px;
     padding: 45px 0px;
 }
+
+.pie-pagina .grupo-1 .box figure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
