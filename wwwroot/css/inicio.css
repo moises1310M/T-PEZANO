@@ -8,5 +8,12 @@ body{
 
 h1{
 
-    
+    text-align: center;
+    color: black;
+    font-family: arial;
+    font-size: 300px;
+}
+
+img.ima{
+    text-align: center;
 }
