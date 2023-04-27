@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj": {}
+    "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj": {
+    "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj",
         "projectName": "TPEZANO",
-        "projectPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\TPEZANO.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
