@@ -11320,11 +11320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\TPEZANO.csproj",
+      "projectName": "TPEZANO",
+      "projectPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\TPEZANO.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
