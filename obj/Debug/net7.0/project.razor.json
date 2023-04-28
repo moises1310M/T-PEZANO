@@ -18645,11 +18645,6 @@
   "RootNamespace": "TPEZANO",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
