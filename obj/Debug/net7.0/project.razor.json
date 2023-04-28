@@ -18703,11 +18703,6 @@
       "FilePath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\U\\PROGRAMACION-I\\TPEZANO\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
