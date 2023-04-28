@@ -11315,19 +11315,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Flor\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Flor\\Downloads\\PEZANOO\\TPEZANO-2\\TPEZANO.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\TPEZANO.csproj",
       "projectName": "TPEZANO",
-      "projectPath": "c:\\Users\\Flor\\Downloads\\PEZANOO\\TPEZANO-2\\TPEZANO.csproj",
-      "packagesPath": "C:\\Users\\Flor\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Flor\\Downloads\\PEZANOO\\TPEZANO-2\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\TPEZANO.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Flor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
