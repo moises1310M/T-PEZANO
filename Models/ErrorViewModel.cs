@@ -1,4 +1,4 @@
-namespace TPEZANO.Models
+namespace TPEZANO.Models;
 
 public class ErrorViewModel
 {
