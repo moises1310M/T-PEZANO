@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc
+using Microsoft.AspNetCore.Mvc;
 using TPEZANO.Models;
 using TPEZANO.Data; 
 using Microsoft.EntityFrameworkCore;
