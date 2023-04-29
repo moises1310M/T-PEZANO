@@ -60,7 +60,6 @@ namespace TPEZANO.Controllers
                 _context.Add(proforma);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-
             }
         }
 
