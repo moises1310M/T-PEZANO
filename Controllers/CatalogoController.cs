@@ -50,7 +50,7 @@ namespace TPEZANO.Controllers
                 List<Producto> productos = new List<Producto>();
                 return View("Index", productos);
             }else{
-                var producto = await _context.DatProductos.FindAsync(id);
+                var producto = await _context.DataProductos.FindAsync(id);
                 Proforma proforma = new Proforma();
                 proforma.producto = producto;
                 proforma.Price = producto.Precio;
