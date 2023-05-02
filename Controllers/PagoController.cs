@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
-using test.Data;
-using test.Models;
+using TPEZANO.Data;
+using TPEZANO.Models;
 using Microsoft.EntityFrameworkCore;
 
 /*
@@ -11,7 +11,7 @@ using Rotativa.AspNetCore;
 
 **/
 
-namespace test2.Controllers
+namespace TPEZANO.Controllers
 {
     public class PagoController: Controller
     {
