@@ -6,6 +6,11 @@
 @if (SignInManager.IsSignedIn(User))
 {
     <li class="nav-item">
+        <form asp-controller="Proforma" asp-action="Index">
+            <input type="submit"  class="btn btn-outline-info mx-4" value="Carrito" />
+        </form>
+    </li>
+    <li class="nav-item">
         <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">HOLA @User.Identity?.Name! :D</a>
     </li>
     <li class="nav-item">
