@@ -43,7 +43,6 @@ namespace TPEZANO.Controllers
             }
             return View(objProd);
         }
-/*
         public async Task<IActionResult> Add(int? id){
             var userID = _userManager.GetUserName(User);
             if(userID == null){
@@ -63,7 +62,6 @@ namespace TPEZANO.Controllers
             }
         }
 
-**/
 
     }
 }
