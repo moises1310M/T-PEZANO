@@ -137,6 +137,10 @@
       "PackagePath": "staticwebassets\\img\\logo01.jpg"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\master.jpg",
+      "PackagePath": "staticwebassets\\img\\master.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\merluza y pejerrey.jpg",
       "PackagePath": "staticwebassets\\img\\merluza y pejerrey.jpg"
     },
@@ -155,6 +159,10 @@
     {
       "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\sopa1.PNG",
       "PackagePath": "staticwebassets\\img\\sopa1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\visa.png",
+      "PackagePath": "staticwebassets\\img\\visa.png"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\js\\site.js",

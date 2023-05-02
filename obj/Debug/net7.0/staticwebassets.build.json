@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2RHqa02Zdb+OIi1H2Z0rI5Q3ShwLJo6lCCl4bHdXg9I=",
+  "Hash": "HLWMFRGi16IYi/cc7xSytutS82FVu7ynObh1S8TddVY=",
   "Source": "TPEZANO",
   "BasePath": "_content/TPEZANO",
   "Mode": "Default",
@@ -1581,6 +1581,23 @@
       "OriginalItemSpec": "wwwroot\\img\\logo01.jpg"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\master.jpg",
+      "SourceId": "TPEZANO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\",
+      "BasePath": "_content/TPEZANO",
+      "RelativePath": "img/master.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\master.jpg"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\merluza y pejerrey.jpg",
       "SourceId": "TPEZANO",
       "SourceType": "Discovered",
@@ -1715,6 +1732,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\sopa1.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\visa.png",
+      "SourceId": "TPEZANO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\",
+      "BasePath": "_content/TPEZANO",
+      "RelativePath": "img/visa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\visa.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\js\\site.js",
