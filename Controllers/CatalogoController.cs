@@ -43,7 +43,23 @@ namespace TPEZANO.Controllers
             }
             return View(objProd);
         }
-        
+        public async Task<IActionResult> Add(int? id){
+            var userID = _userManager.GetUserName(User);
+            if(userID == null){
+                ViewData["Message"] = "Debe Iniciar Sesion antes de agregar un producto";
+                List<Producto> productos = new List<Producto>();
+                return View("Index", productos);
+            }else{
+                var producto = await _context.DataProductos.FindAsync(id);
+                Proforma proforma = new Proforma();
+                proforma.producto = producto;
+                proforma.Price = producto.Precio;
+                proforma.Quantity = 1;
+                proforma.UserID = userID;
+                _context.Add(proforma);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
         }
 
     }
