@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace TPEZANO.Controllers
 {
-    public class CatalogoController : Controller
+    public class CatalogoController : 
     {
         
             
