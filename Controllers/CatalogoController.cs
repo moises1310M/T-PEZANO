@@ -5,7 +5,7 @@ using TPEZANO.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 
-namespace 
+namespace TPEZANO.Controllers
 {
     public class CatalogoController : Controller
     {
