@@ -25,4 +25,4 @@
                       File="$(EFProjectMetadataFile)"
                       Lines="@(EFProjectMetadata)" />
   </Target>
-</Project>
+
