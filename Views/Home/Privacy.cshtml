@@ -88,6 +88,37 @@
       .bd-mode-toggle {
         z-index: 1500;
       }
+
+        .rating {
+        display: inline-block;
+        font-size: 0;
+      }
+
+      .rating input[type="radio"] {
+        display: none;
+      }
+
+      .rating label {
+        font-size: 2rem;
+        padding: 0.5rem;
+        color: #ccc;
+        cursor: pointer;
+        display: inline-block;
+      }
+
+      .rating input[type="radio"]:checked ~ label {
+        color: #ffcc00;
+        -webkit-text-stroke: 1px #ffcc00; /* Añade borde a la estrella para que se vea rellena */
+      }
+
+      .imagen-container {
+        text-align: center;
+      }
+
+      .bg-darkred {
+          background-color: #990000 !important;
+      }
+
     </style>
 
     
@@ -149,20 +180,20 @@
           <p class="text-body-secondary">En esta sección estaran los platos mas destacados y unicos de nuestro restaurante con sus respectivas reseñas, asimismo les dares unos platos bancera de nuestra coleccion para que puedan disgustar de un exquiso manjar, ademas al lado estaran nuestras redes sociales para que puedan buscar y preparar los platos que deseen.</p>
         </div>
         <div class="col-sm-4 offset-md-1 py-4">
-          <h4>Contact</h4>
+          <h4>Contáctanos</h4>
           <ul class="list-unstyled">
-            <li><a href="#" class="text-black">Follow on Twitter</a></li>
-            <li><a href="#" class="text-black">Like on Facebook</a></li>
-            <li><a href="#" class="text-black">Email me</a></li>
+            <li><a href="https://www.youtube.com/channel/UC4UoYANZJKea8tXsOP1B1Ew/" class="text-black">Suscribete a nuestro canal de YouTube</a></li>
+            <li><a href="https://www.facebook.com/Pezano-102539712496161/" class="text-black">Dale "Me Gusta" en Facebook</a></li>
+            <li><a href="http://localhost:5130/Contacto" class="text-black">Sugerencias y/o Reclamos</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <div class="navbar navbar-dark bg-dark shadow-sm">
+  <div class="navbar navbar-dark bg-darkred shadow-sm">
     <div class="container">
       <a href="#" class="navbar-brand d-flex align-items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
         <strong>Lo más Descatado de la Carta</strong>
       </a>
       <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
@@ -177,51 +208,88 @@
   <section class="py-5 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Platos Pezano</h1>
-        <p class="lead text-body-secondary">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
+        <h1 class="fw-light">Reseña de los Platos Pezano</h1>
+        <p class="lead text-body-secondary">Colección de platos sumamente calificados para la maxima presentación y disfrute de los mejores platos del Perú a su casa.</p>
       </div>
     </div>
   </section>
 
+    <div class="imagen-container">
+      <img src="https://odissea.com.pe/wp-content/uploads/comida-peruana-marina.jpg" alt="enfoque">
+    </div>
+  
+
   <div class="album py-5 bg-body-tertiary">
     <div class="container">
-
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>1er Plato</title><rect width="100%" height="100%" fill="#FFE0BD"></rect><text x="50%" y="50%" fill="black" dy=".3em">Aguadito de mariscos</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">El aguadito de mariscos peruano, es uno de los platos bandera en las costas del país. Las esposas de los pescadores suelen preparar deliciosos platos marineros, entre los que destaca este súper especial aguadito. Este plato es una sopa espesa con arroz y vegetales, que se hace con pescado o mariscos.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">3 estrellas</small>
+                <div class="rating">
+                  <input type="radio" id="star5-1" name="rating1" value="5">
+                  <label for="star5-1">&#9733;</label>
+                  <input type="radio" id="star4-1" name="rating1" value="4">
+                  <label for="star4-1">&#9733;</label>
+                  <input type="radio" id="star3-1" name="rating1" value="3">
+                  <label for="star3-1">&#9733;</label>
+                  <input type="radio" id="star2-1" name="rating1" value="2">
+                  <label for="star2-1">&#9733;</label>
+                  <input type="radio" id="star1-1" name="rating1" value="1">
+                  <label for="star1-1">&#9733;</label>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>2do Plato</title><rect width="100%" height="100%" fill="pink"></rect><text x="50%" y="50%" fill="black" dy=".3em">Jalea Mixta de pescado</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">La jalea mixta de pescado es un plato típico peruano, consiste en una mezcla de pescado y mariscos acompañados de ricas salsas y plátano. Un plato energético y de sabor único y especial. Sigue la receta y ánimate a probar la combinación de distintos sabores.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">4 estrellas</small>
+                <div class="rating">
+                  <input type="radio" id="star5-2" name="rating2" value="5">
+                  <label for="star5-2">&#9733;</label>
+                  <input type="radio" id="star4-2" name="rating2" value="4">
+                  <label for="star4-2">&#9733;</label>
+                  <input type="radio" id="star3-2" name="rating2" value="3">
+                  <label for="star3-2">&#9733;</label>
+                  <input type="radio" id="star2-2" name="rating2" value="2">
+                  <label for="star2-2">&#9733;</label>
+                  <input type="radio" id="star1-2" name="rating2" value="1">
+                  <label for="star1-2">&#9733;</label>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>3er Plato</title><rect width="100%" height="100%" fill="caffee"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Parihuela</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">La parihuela es una sopa típica de la gastronomía peruana que se prepara a base de pescados y mariscos.En el Perú también se le conoce como la popular “levanta muertos” o también plato afrodisíaco “viagra natural”. Ya que contiene una gran variedad de mariscos y pescados es alto es fósforo.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">5 estrellas</small>
+               <div class="rating">
+                <input type="radio" id="star5-3" name="rating3" value="5">
+                <label for="star5-3">&#9733;</label>
+                <input type="radio" id="star4-3" name="rating3" value="4">
+                <label for="star4-3">&#9733;</label>
+                <input type="radio" id="star3-3" name="rating3" value="3">
+                <label for="star3-3">&#9733;</label>
+                <input type="radio" id="star2-3" name="rating3" value="2">
+                <label for="star2-3">&#9733;</label>
+                <input type="radio" id="star1-3" name="rating3" value="1">
+                <label for="star1-3">&#9733;</label>
+              </div>
               </div>
             </div>
           </div>
@@ -229,39 +297,72 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>4to Plato</title><rect width="100%" height="100%" fill="royalblue"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Arroz con mariscos peruano</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">A las influencias de los amantes –una italiana y un chino– se suma también el arroz que los árabes llevaron a España y los españoles trajeron a América. Tampoco es coincidencia que el arroz con mariscos peruano sea tan similar a la paella, uno de los platos más representativos de la gastronomía española.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">4 estrellas</small>
+               <div class="rating">
+                <input type="radio" id="star5-4" name="rating4" value="5">
+                <label for="star5-4">&#9733;</label>
+                <input type="radio" id="star4-4" name="rating4" value="4">
+                <label for="star4-4">&#9733;</label>
+                <input type="radio" id="star3-4" name="rating4" value="3">
+                <label for="star3-4">&#9733;</label>
+                <input type="radio" id="star2-4" name="rating4" value="2">
+                <label for="star2-4">&#9733;</label>
+                <input type="radio" id="star1-4" name="rating4" value="1">
+                <label for="star1-4">&#9733;</label>
+              </div>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>5to Plato</title><rect width="100%" height="100%" fill="orange"></rect><text x="50%" y="50%" fill="black" dy=".3em">Ceviche Premium</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">No solo es el plato más representativo de los platos marinos, es también el más famoso y popular de la gastronomía peruana. Se trata de un platillo elaborado en base a pescado cocinado en jugo de limón, con un toque picante y acompañado de cebollas. demás de que se prepara en toda la costa peruana con un estilo único en cada lugar.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">5 estrellas</small>
+                <div class="rating">
+                  <input type="radio" id="star5-5" name="rating5" value="5">
+                  <label for="star5-5">&#9733;</label>
+                  <input type="radio" id="star4-5" name="rating5" value="4">
+                  <label for="star4-5">&#9733;</label>
+                  <input type="radio" id="star3-5" name="rating5" value="3">
+                  <label for="star3-5">&#9733;</label>
+                  <input type="radio" id="star2-5" name="rating5" value="2">
+                  <label for="star2-5">&#9733;</label>
+                  <input type="radio" id="star1-5" name="rating5" value="1">
+                  <label for="star1-5">&#9733;</label>
+                </div>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>6to Plato</title><rect width="100%" height="100%" fill="yellow"></rect><text x="50%" y="50%" fill="dark" dy=".3em">Chicharrones de calamar</text></svg>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">No podía faltar los tradicionales chicharrones, pero esta vez están hechos de calamar o pota. La combinación con otros platos como el Ceviche, dejan a muchos con ganas de seguir probando este crocante y crujiente calamar. No dejes de probar uno deliciosos chicharrones listos en pocos minutos, en presentación picante o clásico.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <small class="text-body-secondary">4.5 estrellas</small>
+                <div class="rating">
+                  <input type="radio" id="star5-6" name="rating6" value="5">
+                  <label for="star5-6">&#9733;</label>
+                  <input type="radio" id="star4-6" name="rating6" value="4">
+                  <label for="star4-6">&#9733;</label>
+                  <input type="radio" id="star3-6" name="rating6" value="3">
+                  <label for="star3-6">&#9733;</label>
+                  <input type="radio" id="star2-6" name="rating6" value="2">
+                  <label for="star2-6">&#9733;</label>
+                  <input type="radio" id="star1-6" name="rating6" value="1">
+                  <label for="star1-6">&#9733;</label>
+                </div>
               </div>
             </div>
           </div>
@@ -269,9 +370,7 @@
       </div>
     </div>
   </div>
-
 </main>
-
 <footer class="text-body-secondary py-5">
   <div class="container">
     <p class="float-end mb-1">
@@ -284,8 +383,5 @@
 
 
     <script src="/docs/5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
-
-      
-  
 
 </body></html>

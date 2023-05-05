@@ -1,0 +1,75 @@
+@model TPEZANO.Models.Pago
+@{
+    ViewData["Title"] = "Pago";
+}
+
+
+    
+    <div class="container">
+            <div class="row">
+              <div class="col-sm-5">
+                 <h1>Pagar con Tarjeta</h1>
+              </div>
+              <div class="col-sm-2">    
+                <img src="~/img/visa.png" style="width:100px; height:60px" alt="">
+              </div>
+              <div class="col-sm-2">    
+                  <img src="~/img/master.jpg" style="width:100px; height:70ypx" alt="">
+              </div>
+            </div>
+        
+        <div class="row">
+          <div class="col-sm-10 mt-5">
+           <form asp-controller="Pago" asp-action="Pagar">
+              <div class="form-group row my-3">
+                <input type="hidden" asp-for="UserId"/>
+                <div class="col-sm-2">
+                  <label class="control-label">Nombre:</label>
+                </div>
+                <div class="col-sm-4">
+                  <input asp-for="NombreTarjeta" class="form-control" />
+                </div>
+              </div>
+              <div class="form-group row my-3">
+                <div class="col-sm-2">
+                  <label class="control-label">N° Tarjeta:</label>
+                </div>
+                <div class="col-sm-4">
+                  <input asp-for="NumeroTarjeta" class="form-control" data-inputmask="'mask': '9999-9999-9999-9999'" />
+                </div>
+              </div>              
+              <div class="form-group row my-3">
+                <div class="col-sm-2">
+                  <label class="control-label">Caducidad:</label>
+                </div>
+                <div class="col-sm-2">
+                  <input asp-for="DueDateYYMM" class="form-control" data-inputmask="'mask': '99/99', 'placeholder': 'yy/mm'" />
+                </div>
+              </div>
+              <div class="form-group row my-3">
+                <div class="col-sm-2">
+                  <label class="control-label">CVV:</label>
+                </div>
+                <div class="col-sm-2">
+                  <input asp-for="Cvv" class="form-control" data-inputmask="'mask': '999', 'placeholder': '999'" />
+                </div>
+              </div>
+              <div class="form-group row my-3">
+                <div class="col-sm-2">
+                  <label asp-for="MontoTotal" class="control-label"></label>
+                </div>
+                <div class="col-sm-2">
+                  <input asp-for="MontoTotal" class="form-control" data-thousands="," data-decimal="." />
+                </div>
+              </div>  
+              <div class="form-group row my-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-2">
+                  <button type="submit" class="btn btn-primary">Pagar</button> 
+                </div>
+              </div>
+            </form>
+            <h1>@ViewData["Message"]</h1>
+          </div>
+        </div>
+    </div

@@ -1,0 +1,17 @@
+@model TPEZANO.Models.Proforma
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar Pedido</h1>
+
+<h3>¿Estás seguro de querer eliminar este pedido?</h3>
+
+     <p></p>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

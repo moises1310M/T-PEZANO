@@ -32,7 +32,7 @@ namespace TPEZANO.Controllers
         {
             _context.Add(objContacto);
             _context.SaveChanges();
-            ViewData["Message"] = "El contacto ya esta registrado";
+            ViewData["Message"] = "Se envio con éxito su mensaje";
             return View();
         }
 

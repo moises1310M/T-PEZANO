@@ -13,4 +13,12 @@ public class ApplicationDbContext : IdentityDbContext
     public DbSet<TPEZANO.Models.Contacto> DataContactos { get; set; }
 
      public DbSet<TPEZANO.Models.Producto> DataProductos { get; set;}
+
+     public DbSet<TPEZANO.Models.Proforma> DataProforma { get; set;}
+
+    public DbSet<TPEZANO.Models.Pago> DataPago { get; set;}
+
+    public DbSet<TPEZANO.Models.Pedido> DataPedido { get; set;}
+    
+    public DbSet<TPEZANO.Models.DetallePedido> DataDetallePedido { get; set; }
 }
