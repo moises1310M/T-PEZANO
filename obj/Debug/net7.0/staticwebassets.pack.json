@@ -1,399 +1,399 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TPEZANO.bundle.scp.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TPEZANO.bundle.scp.css",
       "PackagePath": "staticwebassets\\TPEZANO.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\css\\inicio.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\css\\inicio.css",
       "PackagePath": "staticwebassets\\css\\inicio.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Arroz con camarones.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Arroz con camarones.jpg",
       "PackagePath": "staticwebassets\\img\\Arroz con camarones.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Arroz con camarones_02.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Arroz con camarones_02.jpg",
       "PackagePath": "staticwebassets\\img\\Arroz con camarones_02.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Ceviche arroz y chicha.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Ceviche arroz y chicha.jpg",
       "PackagePath": "staticwebassets\\img\\Ceviche arroz y chicha.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Ceviche de conchas negras.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Ceviche de conchas negras.jpg",
       "PackagePath": "staticwebassets\\img\\Ceviche de conchas negras.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Ceviche de conchas negras_01.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Ceviche de conchas negras_01.jpg",
       "PackagePath": "staticwebassets\\img\\Ceviche de conchas negras_01.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Ceviche y arroz con mariscos.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Ceviche y arroz con mariscos.jpg",
       "PackagePath": "staticwebassets\\img\\Ceviche y arroz con mariscos.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Chicharron de calamar.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Chicharron de calamar.jpg",
       "PackagePath": "staticwebassets\\img\\Chicharron de calamar.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Chicharron y cheviche.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Chicharron y cheviche.jpg",
       "PackagePath": "staticwebassets\\img\\Chicharron y cheviche.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Cocktail de langostinos.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Cocktail de langostinos.jpg",
       "PackagePath": "staticwebassets\\img\\Cocktail de langostinos.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Langostinos al panko.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Langostinos al panko.jpg",
       "PackagePath": "staticwebassets\\img\\Langostinos al panko.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Pescado a la plancha.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Pescado a la plancha.jpg",
       "PackagePath": "staticwebassets\\img\\Pescado a la plancha.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Pescado a la plancha_03.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Pescado a la plancha_03.jpg",
       "PackagePath": "staticwebassets\\img\\Pescado a la plancha_03.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\Pulpo al olivo.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\Pulpo al olivo.jpg",
       "PackagePath": "staticwebassets\\img\\Pulpo al olivo.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\anillas y popcorn.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\anillas y popcorn.jpg",
       "PackagePath": "staticwebassets\\img\\anillas y popcorn.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\arroz.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\arroz.jpg",
       "PackagePath": "staticwebassets\\img\\arroz.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\arroz1.PNG",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\arroz1.PNG",
       "PackagePath": "staticwebassets\\img\\arroz1.PNG"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\ceviche.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\ceviche.jpg",
       "PackagePath": "staticwebassets\\img\\ceviche.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\ceviche1.PNG",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\ceviche1.PNG",
       "PackagePath": "staticwebassets\\img\\ceviche1.PNG"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\chicha pulpero y marisquero.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\chicha pulpero y marisquero.jpg",
       "PackagePath": "staticwebassets\\img\\chicha pulpero y marisquero.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\combinado.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\combinado.jpg",
       "PackagePath": "staticwebassets\\img\\combinado.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo1.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo1.jpg",
       "PackagePath": "staticwebassets\\img\\fondo1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo2.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo2.jpg",
       "PackagePath": "staticwebassets\\img\\fondo2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo3.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo3.jpg",
       "PackagePath": "staticwebassets\\img\\fondo3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo4.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo4.jpg",
       "PackagePath": "staticwebassets\\img\\fondo4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo5.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo5.jpg",
       "PackagePath": "staticwebassets\\img\\fondo5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\fondo6.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\fondo6.jpg",
       "PackagePath": "staticwebassets\\img\\fondo6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\img10.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\img10.jpg",
       "PackagePath": "staticwebassets\\img\\img10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\leche de tigre.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\leche de tigre.jpg",
       "PackagePath": "staticwebassets\\img\\leche de tigre.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\logo.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\logo.jpg",
       "PackagePath": "staticwebassets\\img\\logo.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\logo01.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\logo01.jpg",
       "PackagePath": "staticwebassets\\img\\logo01.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\master.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\master.jpg",
       "PackagePath": "staticwebassets\\img\\master.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\merluza y pejerrey.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\merluza y pejerrey.jpg",
       "PackagePath": "staticwebassets\\img\\merluza y pejerrey.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\mixtura y langostinos.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\mixtura y langostinos.jpg",
       "PackagePath": "staticwebassets\\img\\mixtura y langostinos.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\pescado.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\pescado.jpg",
       "PackagePath": "staticwebassets\\img\\pescado.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\sopa.jpg",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\sopa.jpg",
       "PackagePath": "staticwebassets\\img\\sopa.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\sopa1.PNG",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\sopa1.PNG",
       "PackagePath": "staticwebassets\\img\\sopa1.PNG"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\img\\visa.png",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\img\\visa.png",
       "PackagePath": "staticwebassets\\img\\visa.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\tpezano\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Flor\\Downloads\\PEZ\\TPEZANO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
