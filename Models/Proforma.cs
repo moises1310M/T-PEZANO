@@ -21,7 +21,7 @@ namespace TPEZANO.Models
 
         public Decimal Price { get  ;set; }
 
-        public String Status { get; set; } = "PENDIENTE";
+        public String Status { get; set; } = "PENDIENTE";  
 
     }
 }
