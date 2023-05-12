@@ -73,7 +73,7 @@ namespace TPEZANO.Controllers
 
             _context.SaveChanges();
 
-            ViewData["Message"] = "El pago se ha registrado";
+            ViewData["Message"] = "El pago se ha registrado con éxito!!";
             return View("Create");
         }
           public IActionResult Index()
