@@ -3,13 +3,10 @@ using Microsoft.AspNetCore.Identity;
 using TPEZANO.Data;
 using TPEZANO.Models;
 using Microsoft.EntityFrameworkCore;
-
-/*
 using OfficeOpenXml;
 using OfficeOpenXml.Table;
 using Rotativa.AspNetCore;
 
-**/
 
 namespace TPEZANO.Controllers
 {
@@ -81,7 +78,7 @@ namespace TPEZANO.Controllers
             
             return View(_context.DataPago.ToList());
         }
-/*
+
         public IActionResult ExportarExcel()
         {
             string excelContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
@@ -103,7 +100,7 @@ namespace TPEZANO.Controllers
                 return File(libro.GetAsByteArray(), excelContentType, "Pagos.xlsx");
             }
         }
-*/
+
         
 
 
