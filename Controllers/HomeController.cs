@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using TPEZANO.Models;
 
-namespace test.Controllers;
+namespace TPEZANO.Controllers;
 
 public class HomeController : Controller
 {
