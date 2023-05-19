@@ -100,9 +100,5 @@ namespace TPEZANO.Controllers
                 return File(libro.GetAsByteArray(), excelContentType, "Pagos.xlsx");
             }
         }
-
-        
-
-
     }
 }
