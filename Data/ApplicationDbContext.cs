@@ -10,6 +10,8 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
+    public DbSet<TPEZANO.Models.Cliente> DataCliente { get; set; }
+
     public DbSet<TPEZANO.Models.Contacto> DataContactos { get; set; }
 
      public DbSet<TPEZANO.Models.Producto> DataProductos { get; set;}
