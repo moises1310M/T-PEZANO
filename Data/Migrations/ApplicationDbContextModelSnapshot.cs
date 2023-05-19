@@ -222,7 +222,37 @@ namespace test.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("test.Models.Contacto", b =>
+            modelBuilder.Entity("TPEZANO.Models.Cliente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .HasColumnType("text")
+                        .HasColumnName("email");
+
+                    b.Property<string>("Estado")
+                        .HasColumnType("text")
+                        .HasColumnName("estado");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("text")
+                        .HasColumnName("name");
+
+                    b.Property<string>("Surname")
+                        .HasColumnType("text")
+                        .HasColumnName("surname");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("t_cliente");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Contacto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -244,7 +274,99 @@ namespace test.Data.Migrations
                     b.ToTable("t_contacto");
                 });
 
-            modelBuilder.Entity("test.Models.Producto", b =>
+            modelBuilder.Entity("TPEZANO.Models.DetallePedido", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ID"));
+
+                    b.Property<int>("Cantidad")
+                        .HasColumnType("integer");
+
+                    b.Property<decimal>("Precio")
+                        .HasColumnType("numeric");
+
+                    b.Property<int>("ProductoId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("pedidoID")
+                        .HasColumnType("integer");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("ProductoId");
+
+                    b.HasIndex("pedidoID");
+
+                    b.ToTable("t_order_detail");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Pago", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<decimal>("MontoTotal")
+                        .HasColumnType("numeric");
+
+                    b.Property<string>("NombreTarjeta")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("NumeroTarjeta")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("PaymentDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("t_pago");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Pedido", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<decimal>("Total")
+                        .HasColumnType("numeric");
+
+                    b.Property<string>("UserID")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("pagoId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("pagoId");
+
+                    b.ToTable("t_order");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Producto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -274,6 +396,39 @@ namespace test.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("t_producto");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Proforma", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("numeric");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("UserID")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("productoId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("productoId");
+
+                    b.ToTable("t_proforma");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -325,6 +480,47 @@ namespace test.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.DetallePedido", b =>
+                {
+                    b.HasOne("TPEZANO.Models.Producto", "Producto")
+                        .WithMany()
+                        .HasForeignKey("ProductoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("TPEZANO.Models.Pedido", "pedido")
+                        .WithMany()
+                        .HasForeignKey("pedidoID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Producto");
+
+                    b.Navigation("pedido");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Pedido", b =>
+                {
+                    b.HasOne("TPEZANO.Models.Pago", "pago")
+                        .WithMany()
+                        .HasForeignKey("pagoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("pago");
+                });
+
+            modelBuilder.Entity("TPEZANO.Models.Proforma", b =>
+                {
+                    b.HasOne("TPEZANO.Models.Producto", "producto")
+                        .WithMany()
+                        .HasForeignKey("productoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("producto");
                 });
 #pragma warning restore 612, 618
         }
