@@ -2,14 +2,27 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 
+<ul>
+    <li> 
+        <div>
+            <form asp-controller="Catalogo" asp-action="Index">
+                <input type="text" class="form-control" name="searchString" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                <div>
+                    <button class="btn btn-dark" type="submit">Buscar</button>
+                </div>
+            </form>
+        </div>
+    </li>
+</ul>
+
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
-    <li class="nav-item">
+    /*<li class="nav-item">
         <form asp-controller="Proforma" asp-action="Index">
             <input type="submit"  class="btn btn-outline-dark mx-4" value="Carrito" />
         </form>
-    </li>
+    </li>*/
     <li class="nav-item">
         <a  class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">HOLA @User.Identity?.Name! :D</a>
     </li>
