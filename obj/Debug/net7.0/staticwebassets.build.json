@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h7s2MaufO8FcsnUvNXbcAXZ3qvR/xrmAW3kn5QJrnBU=",
+  "Hash": "69FFiS1seN6+EjGQKsAud9exqeA6og6HqkJwSTLMCws=",
   "Source": "TPEZANO",
   "BasePath": "_content/TPEZANO",
   "Mode": "Default",
@@ -1392,6 +1392,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\combinado.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\wwwroot\\img\\corvina.jpg",
+      "SourceId": "TPEZANO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\wwwroot\\",
+      "BasePath": "_content/TPEZANO",
+      "RelativePath": "img/corvina.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\corvina.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\PROGRAMACION 1\\TPEZANO\\TPEZANO\\wwwroot\\img\\fondo1.jpg",
