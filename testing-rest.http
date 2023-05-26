@@ -1,0 +1,17 @@
+GET https://localhost:5130/api/producto HTTP/1.1
+Accept: application/json
+
+GET https://localhost:5130/api/producto/6 HTTP/1.1
+Accept: application/json
+
+POST https://localhost:5130/api/producto HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Sudado de Corvina",
+  "descripcion": "Blanco de blancos",
+  "precio": 65.00,
+  "imageName": "corvina.jpg"
+}
+
