@@ -18,5 +18,8 @@ namespace TPEZANO.Models
 
         [Column("email")]
         public string? CorreoElectronico { get; set; }
+
+        [Column("asunto")]
+        public string? asunto {get; set;}
     }
 }
