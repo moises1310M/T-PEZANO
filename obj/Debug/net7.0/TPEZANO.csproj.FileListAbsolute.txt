@@ -313,3 +313,8 @@ C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\obj\Debug\net7.0\refint\TPE
 C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\obj\Debug\net7.0\TPEZANO.pdb
 C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\obj\Debug\net7.0\TPEZANO.genruntimeconfig.cache
 C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\obj\Debug\net7.0\ref\TPEZANO.dll
+C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\bin\Debug\net7.0\out\web.config
+C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\bin\Debug\net7.0\out\appsettings.Development.json
+C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\bin\Debug\net7.0\out\appsettings.json
+C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\bin\Debug\net7.0\out\TPEZANO.deps.json
+C:\Users\User\Desktop\PROGRAMACION 1\TPEZANO\TPEZANO\bin\Debug\net7.0\out\TPEZANO.runtimeconfig.json
