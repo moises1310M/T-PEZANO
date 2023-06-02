@@ -1,6 +1,34 @@
 @model TPEZANO.Models.Producto
 
 
+@{
+    ViewData["Title"] = "Detalles del Producto del cliente";
+}
 
+
+
+<html lang="en">
+
+<body>
+    
+  
+     <div class="col-md-4">
+       <div class="product-info">
+        <div class="product-text">
+        <br>
+    
+    	
+          <h2>@Html.DisplayFor(model =>  model.Name)</h2>
+
+        
+          <h2>@Html.DisplayFor(model => model.Descripcion)</h2>
+          
+                          
+        </div>
+        <a asp-action="Index">REGRESAR</a>
+    </div>
+
+
+</body>
 
 
