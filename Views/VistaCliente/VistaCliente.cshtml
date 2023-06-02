@@ -4,7 +4,12 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 
-
+@{
+    ViewData["Title"] = "MIS PEDIDOS";  
+    IEnumerable<TPEZANO.Models.Pedido> listItemsMatricula = new List<Pedido>();
+    listItemsMatricula = @Model.elementosDatos;
+}
+<h1>@ViewData["Title"]</h1>
 
   <div class="container">
     <h1>@ViewData["Message"]</h1>
