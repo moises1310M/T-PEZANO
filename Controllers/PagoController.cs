@@ -46,6 +46,11 @@ namespace TPEZANO.Controllers
         [HttpPost]
         public IActionResult Pagar(Pago pago)
         {
+            if (pago.MontoTotal == 0)
+            {
+                ViewData["Message"] = "No tiene pagos pendientes";
+                return View("Create");
+            }
             pago.PaymentDate = DateTime.UtcNow;
             _context.Add(pago);
 
