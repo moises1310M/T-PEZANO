@@ -42,7 +42,7 @@ namespace TPEZANO.Controllers
          // GET: Pedido/Details/5
         public async Task<IActionResult> Details(int? Id)
         {
-            if (Id == null || _context.DataProductos == null)
+            if (Id == null || _context.DataPedido == null)
             {
                 return NotFound();
             }
@@ -108,28 +108,16 @@ namespace TPEZANO.Controllers
             if (ID != pedidos.ID)
             {
                 return NotFound();
-            }
+            }else{
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(pedidos);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!PedidoExists(pedidos.ID))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
+                _context.Update(pedidos);
+                await _context.SaveChangesAsync();
+                
                 return RedirectToAction(nameof(Index));
             }
+
+                
+            
             return View(pedidos);
         }
 

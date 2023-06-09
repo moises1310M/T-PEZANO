@@ -25,10 +25,22 @@ namespace TPEZANO.Controllers
 
         public IActionResult Create(Decimal monto)
         {
-            Pago pago = new Pago();
-            pago.UserId = _userManager.GetUserName(User);
-            pago.MontoTotal = monto;
-            return View(pago);
+
+            if(monto == null){
+
+                   return RedirectToAction(nameof(Index));
+                    
+            }else{
+                 Pago pago = new Pago();
+ 
+            
+                    pago.UserId = _userManager.GetUserName(User);
+                    pago.MontoTotal = monto;
+                    return View(pago);
+            }
+
+                   
+            
         }
 
         [HttpPost]
