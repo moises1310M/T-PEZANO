@@ -48,7 +48,7 @@ namespace TPEZANO.Controllers
         {
             if (pago.MontoTotal == 0)
             {
-                ViewData["Message"] = "No tiene pagos pendientes";
+                ViewData["Message"] = "La transaccion fue exitosa";
                 return View("Create");
             }
             pago.PaymentDate = DateTime.UtcNow;
